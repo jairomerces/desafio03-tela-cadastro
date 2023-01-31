@@ -1,7 +1,7 @@
-# desafio03-tela-cadastro
- 
-<h2> ⚙ Adicionado tela de cadastro</h2>
+<h1> desafio03-tela-cadastro </h1>
+
 <ul>
+    <li> Adicionado tela de cadastro </li>
     <li> Na tela de cadastro foi adicionado ação no botão "Criar minha conta", para quando inserido todos os dados corretamente redirecionar para tela de Feed </li>
     <li> Na tela de cadastro foi adicionado ação na opção "Já tenho conta", para quando o usuário clicar em "Fazer login" ser redirecionado a tela de Login </li>
     <li> Na tela de Login foi adicionado ação no botão "Entrar", para quando inserido todos os dados corretamente redirecionar para tela de Feed </li>
